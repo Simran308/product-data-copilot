@@ -1,0 +1,110 @@
+[
+ {
+  "sku": "GW-100",
+  "product_name": "Vela Gateway 100",
+  "weight_g": 310,
+  "op_temp_min_c": -30,
+  "op_temp_max_c": 70,
+  "ip_rating": "IP67",
+  "lifecycle_status": "EOL"
+ },
+ {
+  "sku": "GW-200",
+  "product_name": "Vela Gateway 200",
+  "weight_g": 325,
+  "op_temp_min_c": -40,
+  "op_temp_max_c": 85,
+  "ip_rating": "IP67",
+  "lifecycle_status": "GA"
+ },
+ {
+  "sku": "GW-300",
+  "product_name": "Vela Gateway 300 LTE",
+  "weight_g": 280,
+  "op_temp_min_c": -40,
+  "op_temp_max_c": 85,
+  "ip_rating": "IP68",
+  "lifecycle_status": "GA"
+ },
+ {
+  "sku": "GW-400",
+  "product_name": "Vela Gateway 400 5G",
+  "weight_g": 300,
+  "op_temp_min_c": -40,
+  "op_temp_max_c": 85,
+  "ip_rating": "IP68",
+  "lifecycle_status": "NPI"
+ },
+ {
+  "sku": "CM-10",
+  "product_name": "Vela Dash Cam 10",
+  "weight_g": 180,
+  "op_temp_min_c": -20,
+  "op_temp_max_c": 70,
+  "ip_rating": "IP54",
+  "lifecycle_status": "EOL"
+ },
+ {
+  "sku": "CM-20",
+  "product_name": "Vela Dual Cam 20",
+  "weight_g": 240,
+  "op_temp_min_c": -20,
+  "op_temp_max_c": 60,
+  "ip_rating": "IP54",
+  "lifecycle_status": "GA"
+ },
+ {
+  "sku": "CM-30",
+  "product_name": "Vela AI Cam 30",
+  "weight_g": 260,
+  "op_temp_min_c": -30,
+  "op_temp_max_c": 75,
+  "ip_rating": "IP65",
+  "lifecycle_status": "GA"
+ },
+ {
+  "sku": "CM-40",
+  "product_name": "Vela Site Cam 40",
+  "weight_g": 620,
+  "op_temp_min_c": -30,
+  "op_temp_max_c": 60,
+  "ip_rating": "IP66",
+  "lifecycle_status": "NPI"
+ },
+ {
+  "sku": "SN-TEMP",
+  "product_name": "Vela Temp Sensor",
+  "weight_g": 45,
+  "op_temp_min_c": -40,
+  "op_temp_max_c": 85,
+  "ip_rating": "IP67",
+  "lifecycle_status": "GA"
+ },
+ {
+  "sku": "SN-DOOR",
+  "product_name": "Vela Door Sensor",
+  "weight_g": 38,
+  "op_temp_min_c": -30,
+  "op_temp_max_c": 70,
+  "ip_rating": "IP65",
+  "lifecycle_status": "GA"
+ },
+ {
+  "sku": "SN-TPMS",
+  "product_name": "Vela Tire Sensor",
+  "weight_g": 30,
+  "op_temp_min_c": -40,
+  "op_temp_max_c": 125,
+  "ip_rating": "IP67",
+  "lifecycle_status": "GA"
+ },
+ {
+  "sku": "SN-AIR",
+  "product_name": "Vela Air Quality Sensor",
+  "weight_g": 95,
+  "op_temp_min_c": -20,
+  "op_temp_max_c": 60,
+  "ip_rating": "IP54",
+  "lifecycle_status": "GA"
+ }
+]
